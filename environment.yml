@@ -1,0 +1,16 @@
+name: momentum-ml
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - numpy
+  - pandas
+  - scikit-learn
+  - xgboost
+  - matplotlib
+  - seaborn
+  - yfinance
+  - tqdm
+  - pip
+  - pip:
+      - kagglehub
