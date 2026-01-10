@@ -1,5 +1,5 @@
 How to Run the code:
-1. The first step is to clone the repository by writing in the terminal: git clone <repo_url>
+1. The first step is to clone the repository by writing in the terminal: git clone https://github.com/franciscomldsantos/DSAP_Project
 
 2. Then the dependencies need to be installed: conda env create -f environment.yml
 
