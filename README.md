@@ -1,7 +1,7 @@
 How to Run the code:
 1. The first step is to clone the repository by writing in the terminal: git clone https://github.com/franciscomldsantos/DSAP_Project
 
-2. Unzip the data.zip and make sure the "data" folder is inside the project folder
+2. Unzip the data.zip and make sure the "data" folder (which has the CSV data files) is inside the project folder
 
 3. Then the dependencies need to be installed: conda env create -f environment.yml
 
