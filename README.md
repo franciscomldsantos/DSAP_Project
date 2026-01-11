@@ -8,7 +8,9 @@ How to Run the code:
 4. (optional) The data loader can be run, but due to inconsistencies with yfinance API, the
     dataset is also provided inside the folder data. To request the data again, the following
     input can be used: python src/data_loader.py (Downloads sp500 data)
-    
-5. The final step is to execute the pipeline with the orchestrator: python src/main.py
 
-6. The graphs can be replotted by running: python src/plotting.py
+5. Run the calculate momentum file: python src/calculate_momentum.py
+    
+6. The final step is to execute the pipeline with the orchestrator: python main.py
+
+7. The graphs can be replotted by running: python src/plotting.py
