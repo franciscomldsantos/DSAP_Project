@@ -10,3 +10,5 @@ How to Run the code:
     input can be used: python src/data_loader.py (Downloads sp500 data)
     
 5. The final step is to execute the pipeline with the orchestrator: python src/main.py
+
+6. The graphs can be replotted by running: python src/plotting.py
